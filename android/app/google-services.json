@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "834263737446",
+    "project_id": "ju-delivery",
+    "storage_bucket": "ju-delivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834263737446:android:1ce3d3795aa7ca381e79a7",
+        "android_client_info": {
+          "package_name": "com.stepbystep.fip8.fip8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9SUnm9CMe8yDRX18xnMnmbn-IhCGd2nI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
